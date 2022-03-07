@@ -1,0 +1,24 @@
+Link de instrução https://www.jw.org/pt/ensinos-biblicos/perguntas/que-e-reino-de-deus/
+sergi@DESKTOP-87HPI3I MINGW64 ~/Documents/Reino de Deus/Perspectiva para o futuro/Conhecendo a verdade
+$ git clone https://github.com/Sergio-Limajw/O-que-o-Reino-de-Deus-.git
+Cloning into 'O-que-o-Reino-de-Deus-'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+sergi@DESKTOP-87HPI3I MINGW64 ~/Documents/Reino de Deus/Perspectiva para o futuro/Conhecendo a verdade
+$ cd O-que-o-Reino-de-Deus-/
+
+sergi@DESKTOP-87HPI3I MINGW64 ~/Documents/Reino de Deus/Perspectiva para o futuro/Conhecendo a verdade/O-que-o-Reino-de-Deus- (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+
+sergi@DESKTOP-87HPI3I MINGW64 ~/Documents/Reino de Deus/Perspectiva para o futuro/Conhecendo a verdade/O-que-o-Reino-de-Deus- (main)
+$
